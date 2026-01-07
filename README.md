@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project provides a stochastic evaluation of the hydroelectric potential of the **Tanougou Falls** (Atacora, Benin). Instead of a traditional deterministic estimate, this model uses **Monte Carlo simulations** to account for hydrological variability and the mechanical aging of infrastructure over a 50-year horizon.
+This project provides a stochastic evaluation of the hydroelectric potential of the **Tanougou Falls** (Atacora, Benin). Instead of a traditional deterministic estimate, this model uses **Monte Carlo simulations** to account for hydrological variabaility and the mechanical aging of infrastructure over a 50-year horizon.
 
 The goal is to determine the **P90 (Exceedance Probability)**, a critical financial and technical benchmark for renewable energy projects.
 
